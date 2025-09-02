@@ -6,3 +6,4 @@ git init
 ls -a --> check hidden files, look for .git
 git add .
 git commmit -m "message"
+git remote add origin <-link>

@@ -14,3 +14,4 @@ git push origin main / git push -u origin main (after this use only git push to 
 git checkout -b <-new branch-> (creates new branch)
 git checkout <-branch name-> (to navigate)
 git branch -d <-branch name->
+git pull origin main

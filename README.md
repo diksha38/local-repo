@@ -7,3 +7,7 @@ ls -a --> check hidden files, look for .git
 git add .
 git commmit -m "message"
 git remote add origin <-link>
+git remote -v (to verify remote)
+git branch (to check branch)
+git branch -M main (to rename branch)
+git push origin main
